@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-size: cover;
+	background: transparent;
+	background-position: cover;
+	border: none;
+	outline: none;
+}
+
+html,
+body {
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+	font-size: .859rem;
+}
+
+img {
+	display: block;
+	width: 100%;
+	object-fit: cover;
+	object-position: center;
+}
+
+button {
+	color: inherit;
+	font-size: .858rem;
+}
+
