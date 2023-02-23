@@ -1,6 +1,6 @@
 # dSaatSenja
-### hello i'am Rezs Fairuz Hidayat
-### i'am from indonesia, and i'am 27 years old
+### hello i'am Reza Fairuz Hidayat
+### i'am from indonesia, and 17 years old
 
 in this time i build a web page of coffee shop
 for practicing and increas my skil for building a web page
